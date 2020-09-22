@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Temp:"; ObjectID = "097-0h-off"; */
+"097-0h-off.text" = "Темп:";
+
+/* Class = "UILabel"; text = "Hum"; ObjectID = "2jm-vx-gP6"; */
+"2jm-vx-gP6.text" = "Hum";
+
+/* Class = "UILabel"; text = "Wind:"; ObjectID = "2pi-w6-xka"; */
+"2pi-w6-xka.text" = "Ветер:";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "6qc-kg-Atk"; */
+"6qc-kg-Atk.text" = "Temp";
+
+/* Class = "UILabel"; text = "Clouds"; ObjectID = "7VP-r9-A6K"; */
+"7VP-r9-A6K.text" = "Clouds";
+
+/* Class = "UILabel"; text = "Hum"; ObjectID = "DdM-Hk-UZs"; */
+"DdM-Hk-UZs.text" = "Hum";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "F7G-TQ-hGn"; */
+"F7G-TQ-hGn.text" = "Day";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "HUc-d4-7YS"; */
+"HUc-d4-7YS.text" = "Day";
+
+/* Class = "UITextField"; placeholder = "City: London"; ObjectID = "Hrz-gA-oSz"; */
+"Hrz-gA-oSz.placeholder" = "City: London";
+
+/* Class = "UILabel"; text = "Clouds"; ObjectID = "L2v-D2-CFw"; */
+"L2v-D2-CFw.text" = "Clouds";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "OqE-Ml-NsN"; */
+"OqE-Ml-NsN.text" = "Temp";
+
+/* Class = "UILabel"; text = "Clouds:"; ObjectID = "Wye-Cr-D1x"; */
+"Wye-Cr-D1x.text" = "Обл:";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "Yra-pN-n4w"; */
+"Yra-pN-n4w.text" = "Day";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "ZGm-JT-ZKw"; */
+"ZGm-JT-ZKw.text" = "Wind";
+
+/* Class = "UILabel"; text = "Temp "; ObjectID = "ZLI-jA-kM9"; */
+"ZLI-jA-kM9.text" = "Temp ";
+
+/* Class = "UILabel"; text = "Day:"; ObjectID = "a4c-CI-CxG"; */
+"a4c-CI-CxG.text" = "День:";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "aA5-RQ-mO9"; */
+"aA5-RQ-mO9.text" = "Temp";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "aGc-B1-rWc"; */
+"aGc-B1-rWc.text" = "Temp";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "ad9-eU-ZNX"; */
+"ad9-eU-ZNX.text" = "Wind";
+
+/* Class = "UILabel"; text = "Clouds"; ObjectID = "ank-f0-iVT"; */
+"ank-f0-iVT.text" = "Clouds";
+
+/* Class = "UILabel"; text = "Clouds"; ObjectID = "bZY-e4-av0"; */
+"bZY-e4-av0.text" = "Clouds";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "ba3-DX-auV"; */
+"ba3-DX-auV.text" = "Day";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "fRL-cQ-flH"; */
+"fRL-cQ-flH.text" = "Temp";
+
+/* Class = "UILabel"; text = "Hum"; ObjectID = "hhX-SL-50P"; */
+"hhX-SL-50P.text" = "Hum";
+
+/* Class = "UILabel"; text = "Hum"; ObjectID = "kC5-ui-ubU"; */
+"kC5-ui-ubU.text" = "Hum";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "kvA-IW-NXM"; */
+"kvA-IW-NXM.text" = "Wind";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "mY9-yh-DfY"; */
+"mY9-yh-DfY.text" = "Wind";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "mex-ZO-Dbm"; */
+"mex-ZO-Dbm.text" = "Day";
+
+/* Class = "UILabel"; text = "Clouds"; ObjectID = "q7m-qo-Gbs"; */
+"q7m-qo-Gbs.text" = "Clouds";
+
+/* Class = "UILabel"; text = "Hum:"; ObjectID = "q93-Rk-qxc"; */
+"q93-Rk-qxc.text" = "Влаж:";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "r2J-Af-rOv"; */
+"r2J-Af-rOv.text" = "City";
+
+/* Class = "UILabel"; text = "Hum"; ObjectID = "sLA-Zo-wiZ"; */
+"sLA-Zo-wiZ.text" = "Hum";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "v7h-kd-ny3"; */
+"v7h-kd-ny3.text" = "Wind";
